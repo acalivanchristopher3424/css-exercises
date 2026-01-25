@@ -16,6 +16,7 @@
 }
 
 ul {
+  padding: 0;
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
